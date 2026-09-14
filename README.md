@@ -1,4 +1,22 @@
-## Hi there 👋
+# Bienvenido a mi portada de GitHub 
+
+## 🎮 David-Cervantes-29 🎮 Estudiambre 🎮
+
+### Mis Lenguajes Favoritos
+- JavaScript
+- python 
+- java
+
+
+### Frameworks Favoritos 
+- Flet
+
+```
+Console.log('Hello Word')
+print('Hello Word')
+System.out.Print("Hello Word"); 
+```
+
 
 <!--
 **David-Cervantes-29/David-Cervantes-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
